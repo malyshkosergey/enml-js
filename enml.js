@@ -397,7 +397,7 @@
   else{
 
     //Node JS
-    XMLWriter = require('./lib/xml-writer');
+    XMLWriter = require('xml-writer');
     SaxParser = require('./lib/xml-parser').SaxParser;
 
     exports.ENMLOfPlainText = ENMLOfPlainText;
