@@ -19,6 +19,6 @@
     "async": "0.2.X"
   },
   "dependencies": {
-    "xml-writer": "^1.7.0"
+    "xml-writer": "https://github.com/malyshkosergey/node-xml-writer/tarball/master"
   }
 }
